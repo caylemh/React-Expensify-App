@@ -12,3 +12,6 @@
 
 * **Vid 5** 
     - Setting up a 404.
+
+* **Vid 6** 
+    - Linking between Routes using Link and Navlink.
