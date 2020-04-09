@@ -18,3 +18,6 @@
 
 * **Vid 7**
     - Organizing the Routes for the app by creating seperate files for each of my stateless functional components.
+
+* **Vid 8**
+    - Explanations about Query Strings and URL Parameters.
