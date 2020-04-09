@@ -15,3 +15,6 @@
 
 * **Vid 6** 
     - Linking between Routes using Link and Navlink.
+
+* **Vid 7**
+    - Organizing the Routes for the app by creating seperate files for each of my stateless functional components.
