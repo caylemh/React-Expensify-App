@@ -37,3 +37,6 @@
 
 * **Vid 6**
     - Stepping abit away from Redux but focusing on some new ES6 functions particularly relating to Objects and destructuring them for ease of use.
+
+* **Vid 7**
+    - Learning about ES6 Array destructuring & applying them in simple examples.
