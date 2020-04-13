@@ -31,3 +31,6 @@
 
 * **Vid 4**
     - Dispatching Actions to change the Redux store. Learning about getState(), dispatch() & createStore().
+
+* **Vid 5**
+    - Learning about subscribing & using dynamic actions.
