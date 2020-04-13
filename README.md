@@ -40,3 +40,6 @@
 
 * **Vid 7**
     - Learning about ES6 Array destructuring & applying them in simple examples.
+
+* **Vid 8**
+    - Refactoring & Organizing the 'redux-101.js' file by applying ES6 destructuring principles.
