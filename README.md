@@ -21,3 +21,13 @@
 
 * **Vid 8**
     - Explanations about Query Strings and URL Parameters.
+
+## 10. Redux:
+* **Vid 1 & 2**
+    - Section Intro & explanations as to why Redux should be used and it's advantages.
+
+* **Vid 3**
+    - Setting up and installing Redux.
+
+* **Vid 4**
+    - Dispatching Actions to change the redux store. 
