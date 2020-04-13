@@ -34,3 +34,6 @@
 
 * **Vid 5**
     - Learning about subscribing & using dynamic actions.
+
+* **Vid 6**
+    - Stepping abit away from Redux but focusing on some new ES6 functions particularly relating to Objects and destructuring them for ease of use.
