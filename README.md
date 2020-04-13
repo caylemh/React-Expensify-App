@@ -30,4 +30,4 @@
     - Setting up and installing Redux.
 
 * **Vid 4**
-    - Dispatching Actions to change the redux store. 
+    - Dispatching Actions to change the Redux store. Learning about getState(), dispatch() & createStore().
