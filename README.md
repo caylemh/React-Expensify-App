@@ -46,3 +46,6 @@
 
 * **Vid 9**
     - Intro to Reducers & setting up a new file, 'redux-expensify.js', for the Expensify App.
+
+* **Vid 10**
+    - Using multiple reducers using 'combineReducers' function in Redux.
