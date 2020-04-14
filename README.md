@@ -43,3 +43,6 @@
 
 * **Vid 8**
     - Refactoring & Organizing the 'redux-101.js' file by applying ES6 destructuring principles.
+
+* **Vid 9**
+    - Intro to Reducers & setting up a new file, 'redux-expensify.js', for the Expensify App.
