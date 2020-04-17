@@ -55,3 +55,6 @@
 
 * **Vid 12**
     - Using Spread Operators with Objects.
+
+* **Vid 13**
+    - Just wrapped up the rest of the Reducers.
