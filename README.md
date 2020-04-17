@@ -58,3 +58,6 @@
 
 * **Vid 13**
     - Just wrapped up the rest of the Reducers.
+
+* **Vid 14** 
+    - Learning to filter the Redux data.
