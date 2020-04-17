@@ -51,4 +51,7 @@
     - Using multiple reducers using 'combineReducers' function in Redux.
 
 * **Vid 11**
-    - ES6 Spread Operator in Reducers
+    - ES6 Spread Operator in Reducers.
+
+* **Vid 12**
+    - Using Spread Operators with Objects.
