@@ -61,3 +61,6 @@
 
 * **Vid 14** 
     - Learning to filter the Redux data.
+
+* **Vid 15**
+    - Sorting Redux data and completing the Section 10.
