@@ -64,3 +64,7 @@
 
 * **Vid 15**
     - Sorting Redux data and completing the Section 10.
+
+## 11. React with Redux:
+* **Vid 1 & 2**
+- Connecting React and Redux & Organising Redux.
