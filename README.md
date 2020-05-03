@@ -53,3 +53,5 @@
     - Creating Higher order components (HOC).
 * **Vid 4**
     - Connecting Store & Component with React-Redux.
+* **Vid 5**
+    - Rendering the Individual Expenses.
