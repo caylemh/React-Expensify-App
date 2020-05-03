@@ -67,6 +67,8 @@
 
 ## 11. React with Redux:
 * **Vid 1 & 2**
-- Connecting React and Redux & Organising Redux.
+    - Connecting React and Redux & Organising Redux.
 * **Vid 3**
-- Creating Higher order components (HOC)
+    - Creating Higher order components (HOC).
+* **Vid 4**
+    - Connecting Store & Component with React-Redux.
