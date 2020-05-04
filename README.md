@@ -55,3 +55,5 @@
     - Connecting Store & Component with React-Redux.
 * **Vid 5**
     - Rendering the Individual Expenses.
+* **Vid 6**
+    - Controlled Inputs for Filters.
