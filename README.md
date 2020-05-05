@@ -57,3 +57,5 @@
     - Rendering the Individual Expenses.
 * **Vid 6**
     - Controlled Inputs for Filters.
+* **Vid 7**
+    - Dropdown for Picking SortBy.
