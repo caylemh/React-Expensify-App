@@ -67,3 +67,5 @@
     - Wiring up the Add Expense Page.
 * **Vid 11**
     - Wiring up the Edit Expense Page. 
+* **Vid 12**
+    - Installing & Using Redux DevTools in Browser.
