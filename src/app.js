@@ -11,9 +11,9 @@ import './styles/styles.scss';
 
 const store = configureStore();
 
-store.dispatch(addExpense({ description: 'Water Bill', amount: 4500, createdAt: 1000 }));
-store.dispatch(addExpense({ description: 'Gas Bill', amount: 500, createdAt: 10000 }));
-store.dispatch(addExpense({ description: 'Rent', amount: 109500 })); 
+store.dispatch(addExpense({ description: 'Water Bill', amount: 4500, createdAt: -2000000 }));
+store.dispatch(addExpense({ description: 'Gas Bill', amount: 500, createdAt: 2000000 }));
+store.dispatch(addExpense({ description: 'Rent', amount: 9500, createdAt: 130000 })); 
 
 const state = store.getState();
 const visibleExpenses = getVisibleExpenses(state.expenses, state.filters);

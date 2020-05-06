@@ -65,3 +65,5 @@
     - Setting up a Date Picker.
 * **Vid 10**
     - Wiring up the Add Expense Page.
+* **Vid 11**
+    - Wiring up the Edit Expense Page. 
