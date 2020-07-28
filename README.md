@@ -1,6 +1,9 @@
 # React Course: Part Two (Advanced Features)
 
 ## 9. React Router:
+<details>
+<summary>Click here to expand</summary>
+
 * **Vid 1 & 2** 
     - Section Intro & explanations of Client-side routing and Server-side routing.
 * **Vid 3** 
@@ -15,8 +18,12 @@
     - Organizing the Routes for the app by creating seperate files for each of my stateless functional components.
 * **Vid 8**
     - Explanations about Query Strings and URL Parameters.
+</details>
 
 ## 10. Redux:
+<details>
+<summary>Click here to expand</summary>
+
 * **Vid 1 & 2**
     - Section Intro & explanations as to why Redux should be used and it's advantages.
 * **Vid 3**
@@ -45,8 +52,12 @@
     - Learning to filter the Redux data.
 * **Vid 15**
     - Sorting Redux data and completing the Section 10.
+</details>
 
 ## 11. React with Redux:
+<details>
+<summary>Click here to expand</summary>
+
 * **Vid 1 & 2**
     - Connecting React and Redux & Organising Redux.
 * **Vid 3**
@@ -69,3 +80,4 @@
     - Wiring up the Edit Expense Page. 
 * **Vid 12**
     - Installing & Using Redux DevTools in Browser.
+</details>
